@@ -217,19 +217,19 @@ Add recommendations only after investigating the results. Explain the evidence b
 ## Dashboard Screenshots
 
 ### Sales Overview
-![Sales Overview](screenshots/01-sales-overview.png)
+![Sales Overview](DashboardScreenshorts/01-sales-overview.png)
 
 ### Product Analysis
-![Product Analysis](screenshots/02-product-analysis.png)
+![Product Analysis](DashboardScreenshorts/02-product-analysis.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/03-customer-analysis.png)
+![Customer Analysis](DashboardScreenshorts/03-customer-analysis.png)
 
 ### Delivery & Payments
-![Delivery & Payments](screenshots/04-delivery-payments.png)
+![Delivery & Payments](DashboardScreenshorts/04-delivery-payments.png)
 
 ### Power BI Data Model
-![Power BI Data Model](screenshots/05-powerbi-data-model.png)
+![Power BI Data Model](DashboardScreenshorts/05-powerbi-data-model.png)
 
 ## Repository Structure
 
@@ -240,7 +240,7 @@ olist-ecommerce-end-to-end-data-analysis/
 ├── .gitignore
 ├── data/
 │   └── README.md
-├── screenshots/
+├── DashboardScreenshorts/
 │   ├── 01-sales-overview.png
 │   ├── 02-product-analysis.png
 │   ├── 03-customer-analysis.png
