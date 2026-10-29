@@ -30,7 +30,6 @@ The objective is to transform raw e-commerce data into meaningful, evidence-base
 | Python | Data inspection, cleaning validation, and EDA |
 | Pandas | Data manipulation and analysis |
 | NumPy | Numerical operations |
-| Matplotlib / Seaborn | Exploratory visualisations, where used |
 | Jupyter Notebook | Interactive analysis and documentation |
 | MySQL | SQL-based business analysis |
 | Power Query | Data transformation and preparation |
@@ -241,18 +240,6 @@ olist-ecommerce-end-to-end-data-analysis/
 ├── .gitignore
 ├── data/
 │   └── README.md
-├── python/
-│   ├── 01_data_quality_checks.ipynb
-│   ├── 02_exploratory_data_analysis.ipynb
-│   └── 03_business_insights.ipynb
-├── sql/
-│   ├── 01_schema_and_table_setup.sql
-│   ├── 02_data_validation.sql
-│   └── 03_business_questions.sql
-├── powerbi/
-│   ├── Olist_Ecommerce_Analytics_Dashboard.pbix
-│   ├── data-model.md
-│   └── measures-dax.md
 ├── screenshots/
 │   ├── 01-sales-overview.png
 │   ├── 02-product-analysis.png
